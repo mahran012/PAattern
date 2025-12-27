@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Upload catalog file";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Choose file for uploading</h3>
+<form asp-action="UploadFile" asp-controller="CatalogAdmin" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" /><br>
+    <input type="submit" value="Upload" />
+</form>

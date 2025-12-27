@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "Test Phone 1",
+    "ManufacturerId": "TP001",
+    "CategoryName": "Smartphones",
+    "QuantityInStock": 50,
+    "PictureUrl": "https://example.com/testphone1.jpg",
+    "Attributes": [
+      {
+        "Color": "Black",
+        "Width": 7.2,
+        "Height": 15.2,
+        "Length": 0.8,
+        "Weight": 0.18,
+        "Price": 299.99
+      }
+    ]
+  },
+  {
+    "Name": "Test Phone 2",
+    "ManufacturerId": "TP002",
+    "CategoryName": "Smartphones",
+    "QuantityInStock": 30,
+    "PictureUrl": "https://example.com/testphone2.jpg",
+    "Attributes": [
+      {
+        "Color": "White",
+        "Width": 7.2,
+        "Height": 15.2,
+        "Length": 0.8,
+        "Weight": 0.17,
+        "Price": 349.99
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatalogItems>
+  <CatalogItem>
+    <Name>Test Phone 3</Name>
+    <ManufacturerId>TP003</ManufacturerId>
+    <CategoryName>Smartphones</CategoryName>
+    <QuantityInStock>25</QuantityInStock>
+    <PictureUrl>https://example.com/testphone3.jpg</PictureUrl>
+    <Attributes>
+      <Attribute>
+        <Color>Red</Color>
+        <Width>7.1</Width>
+        <Height>15.1</Height>
+        <Length>0.7</Length>
+        <Weight>0.16</Weight>
+        <Price>279.99</Price>
+      </Attribute>
+    </Attributes>
+  </CatalogItem>
+  <CatalogItem>
+    <Name>Test Phone 4</Name>
+    <ManufacturerId>TP004</ManufacturerId>
+    <CategoryName>Smartphones</CategoryName>
+    <QuantityInStock>40</QuantityInStock>
+    <PictureUrl>https://example.com/testphone4.jpg</PictureUrl>
+    <Attributes>
+      <Attribute>
+        <Color>Blue</Color>
+        <Width>7.3</Width>
+        <Height>15.3</Height>
+        <Length>0.9</Length>
+        <Weight>0.19</Weight>
+        <Price>329.99</Price>
+      </Attribute>
+    </Attributes>
+  </CatalogItem>
+</CatalogItems>
